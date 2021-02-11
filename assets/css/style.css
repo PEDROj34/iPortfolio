@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #1dfc00;
 }
 
 /* Mobile Navigation */
@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #1dfc00;
 }
 
 @media (min-width: 1024px) {
@@ -340,7 +340,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #149ddd;
+  color: #1dfc00;
 }
 
 .about .content p:last-child {
@@ -431,7 +431,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #e9ff26;
+  background-color: #1dfc00;
 }
 
 /*--------------------------------------------------------------
