@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #efff13;
+  color: #272829;
 }
 
 a {
-  color: #e9ff26;
+  color: #149ddd;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f3ff86;
+  color: #37b3ed;
   text-decoration: none;
 }
 
