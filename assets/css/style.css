@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #136d07;
   transition: background 0.2s ease-in-out;
 }
 
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #0b4902;          /* #040b14; */
+  background: #0c0c0c;          /* #040b14; */
   overflow-y: auto;
 }
 
@@ -310,7 +310,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #136d07;
   bottom: 0;
   left: 0;
 }
@@ -362,7 +362,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #136d07;
   float: left;
 }
 
@@ -431,7 +431,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #1dfc00;
+  background-color: #136d07;
 }
 
 /*--------------------------------------------------------------
@@ -566,10 +566,10 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: #ffffff;
   font-size: 28px;
   text-align: center;
-  background: rgba(20, 157, 221, 0.75);
+  background:#136d07;
   transition: 0.3s;
   width: 50%;
 }
@@ -609,7 +609,7 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #136d07;
   border-radius: 50%;
   transition: 0.5s;
   border: 1px solid #149ddd;
@@ -1076,8 +1076,8 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
-}
+  background: #136d07;
+} 
 
 #footer .copyright {
   text-align: center;
